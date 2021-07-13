@@ -6,3 +6,5 @@ Learning the basics of git
 Do a better job with git repositories
 ## Deployment
 ## How to contribute
+### Copyright
+2014 Git.Training.
