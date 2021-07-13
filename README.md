@@ -6,5 +6,6 @@ Learning the basics of git
 Do a better job with git repositories
 ## Deployment
 ## How to contribute
+Please fork this repository and then issue Pull Requests for review.
 ### Copyright
 2014 Git.Training.
