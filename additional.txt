@@ -1,1 +1,2 @@
 text in the additional file
+testing the difftool with two files
